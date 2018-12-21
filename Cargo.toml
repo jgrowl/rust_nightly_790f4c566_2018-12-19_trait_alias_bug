@@ -1,0 +1,8 @@
+[package]
+name = "rust_nightly_790f4c566_2018-12-19_trait_alias_bug"
+version = "0.1.0"
+authors = ["Jonathan Rowlands <jonrowlands83@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+less_generic_trait_def = { path = "./less_generic_trait_def" }

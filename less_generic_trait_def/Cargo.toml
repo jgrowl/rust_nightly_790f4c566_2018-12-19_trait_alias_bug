@@ -1,0 +1,8 @@
+[package]
+name = "less_generic_trait_def"
+version = "0.1.0"
+authors = ["Jonathan Rowlands <jonrowlands83@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+# generic_trait_def = { path = "../generic_trait_def" }
